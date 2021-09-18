@@ -1,0 +1,10 @@
+0  Cat
+1  Telephone
+2  Sea_Lion
+3  Alarm_Clock
+4  Parrot
+5  Starfish
+6  Stairs
+7  Tin_Can
+8  Lily
+9  Wine
